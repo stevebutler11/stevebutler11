@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 I live in Saltaire, West Yorkshire.
 
-I wear many hats at [ASD lighting plc](www.asdlighting.com), but mainly I'm focused on software development.
+I wear many hats at [ASD lighting plc](https://www.asdlighting.com), but mainly I'm focused on software development.
 
-I've got a [personal site](www.stevebutler.info) you can have a look at if you wish.
+I've got a [personal site](https://www.stevebutler.info) you can have a look at if you wish.
 
-Have a look around. If you'd like to chat, contact me! I'm on [LinkedIn](www.linkedin.com/in/steven-butler-3749a6a4/), or you can email me at contact at stevebutler dot info
+Have a look around. If you'd like to chat, contact me! I'm on [LinkedIn](https://www.linkedin.com/in/steven-butler-3749a6a4/), or you can email me at contact at stevebutler dot info
